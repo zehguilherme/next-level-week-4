@@ -6,8 +6,14 @@
   <img src=".github/img/home.png" alt="Move it - Home">
 </div>
 
-<div align="center">
+<br/>
 
+<div align="center">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/zehguilherme/next-level-week-4">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/zehguilherme/next-level-week-4">
+  <img alt="GitHub" src="https://img.shields.io/github/license/zehguilherme/next-level-week-4">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/zehguilherme/next-level-week-4">
+  <a href="https://www.codacy.com/gh/zehguilherme/next-level-week-4/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=zehguilherme/next-level-week-4&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/6bad31cda5744796887077a0dd7b1a96"/></a>
 </div>
 
 <br/>
